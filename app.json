@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "j-portal",
+    "slug": "j-portal",
+    "extra": {
+      "eas": {
+        "projectId": "a7a9c5e5-25b3-413d-91ec-afd71b8ae794"
+      }
+    },
+    "android": {
+      "package": "com.sahilwaikar.jportal"
+    }
+  }
+}
